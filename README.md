@@ -1,6 +1,6 @@
 # 🐾 GingerPanda Lab
 
-## 👋 Hello, I'm Iryna!
+## 👋 Hi, I'm Iryna!
 
 I am a software developer in training based in Ulm, Germany,
 with a professional background in photography and illustration.
