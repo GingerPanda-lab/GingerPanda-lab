@@ -2,17 +2,13 @@
 
 ## 👋 Hi, I'm Iryna!
 
-I am a software developer in training based in Ulm, Germany,
-with a professional background in photography and illustration.
+I am currently completing my retraining as a
+**Fachinformatikerin für Anwendungsentwicklung**, 
+software developer training based in Ulm, Germany. 
 
-I enjoy combining visual storytelling and programming to build 
-meaningful digital experiences.
-
-Currently completing my retraining as a
-**Fachinformatikerin für Anwendungsentwicklung**.
-
+Having a professional background in photography and illustration, 
 I am looking for an internship in software development,
-with a particular interest in web development.
+with a particular interest in web or game development.
 
 ## 💻 Technologies & Tools
 
